@@ -16,9 +16,6 @@ This project investigates the evolutionary divergence and convergent evolution o
 
 3. Establish correlations between chromatin accessibility and mammalian circadian behavior.
 
-## Workflow
-![Workflow for Circadian Rhythm Analysis - visual selection](https://github.com/user-attachments/assets/da7fd9bf-3edf-4200-a40f-feee61d745e6)
-
 ## Data & Methods
 
 1. Phylogenetic Regression Analysis
