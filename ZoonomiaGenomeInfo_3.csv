@@ -1,0 +1,244 @@
+ZoonomiaIndex,Species,CommonName,Clade,MouseSplit_Cactus,MouseSplit_MYA,HumanSplit_MYA,CN50_kb,Scaffold N50,Scaffold L50,Contig N50,Contig L50,Assembly
+1,Acinonyx_jubatus,Cheetah,Laurasiatheria,0.77159,96,94,35120,3122036,232,35120,19059,GCF_001443585.1
+2,Ailuropoda_melanoleuca,Giant Panda,Laurasiatheria,0.81346,96,94,128604,9947519,75,128604,5279,GCA_002007445.1
+3,Ailurus_fulgens,Red Panda,Laurasiatheria,0.78542,96,94,99577,9947519,75,99577,6772,GCA_002007465.1
+4,Ammotragus_lervia,Barbary Sheep,Laurasiatheria,0.815,96,94,52017,1301762,604,52017,13468,GCA_002201775.1
+5,Aotus_nancymaae,Nancy Ma’s Night Monkey,Euarchonta,0.78771,90,42.9,126456,8268663,102,126456,5745,GCA_000952055.2
+6,Balaenoptera_acutorostrata,Common Minke Whale,Laurasiatheria,0.7594,96,94,22690,12843668,57,22690,30763,GCF_000493695.1
+7,Balaenoptera_bonaerensis,Antarctic Minke Whale,Laurasiatheria,0.75915,96,94,8410,20082,33205,8410,78746,GCA_000978805.1
+8,Bison_bison,American Bison,Laurasiatheria,0.78612,96,94,19971,7192658,116,19971,37835,GCF_000754665.1
+9,Bos_indicus,Zebu,Laurasiatheria,0.7926,96,94,28375,106310653,11,28375,25227,GCA_000247795.2
+10,Bos_mutus,Yak,Laurasiatheria,0.79712,96,94,22822,1407960,568,22822,33281,GCF_000298355.1
+11,Bos_taurus,Aurochs,Laurasiatheria,0.79431,96,94,276285,6806220,104,276285,2849,GCF_000003205.7
+12,Bubalus_bubalis,Water Buffalo,Laurasiatheria,0.79049,96,94,21938,1412388,581,21938,35881,GCF_000471725.1
+13,Callithrix_jacchus,Common Marmoset,Euarchonta,0.77363,90,42.9,155284,129239660,9,155284,5014,GCA_002754865.1
+14,Camelus_bactrianus,Bactrian Camel,Laurasiatheria,0.80405,96,94,139019,9947519,75,139019,3963,GCF_000767855.1
+15,Camelus_dromedarius,Arabian Camel,Laurasiatheria,0.80452,96,94,69131,4188677,132,69131,7850,GCF_000767585.1
+16,Camelus_ferus,Bactrian Camel (wild),Laurasiatheria,0.80547,96,94,90263,2005940,274,90263,5814,GCF_000311805.1
+17,Canis_lupus_familiaris,Village dog,Laurasiatheria,0.76797,96,94,110028,45876610,20,267478,2436,GCF_000002285.3
+18,Capra_aegagrus,Wild Goat,Laurasiatheria,0.82395,96,94,19347,91317560,13,19347,39764,GCA_000978405.1
+19,Capra_hircus,Goat,Laurasiatheria,0.82555,96,94,26244591,87277232,13,26244591,32,GCF_001704415.1
+20,Cavia_aperea,Brazilian Guinea Pig,Glires,0.81205,73,89,1039,27928671,28,1039,451938,GCA_000688575.1
+21,Cavia_porcellus,Domesticated Guinea Pig,Glires,0.80531,73,89,80583,27942054,28,80583,9305,GCF_000151735.1
+22,Cebus_capucinus,White-headed Capuchin,Euarchonta,0.78782,90,42.9,41196,5274112,149,41196,17654,GCF_001604975.1
+23,Ceratotherium_simum,White Rhinoceros,Laurasiatheria,0.7083,96,94,92960,26277727,30,92960,7379,GCF_000283155.1
+24,Cercocebus_atys,Sooty Mangabey,Euarchonta,0.74702,90,28.81,112942,12849131,66,112942,6930,GCF_000955945.1
+25,Chinchilla_lanigera,Long-tailed Chinchilla,Glires,0.79416,73,89,61105,21893125,37,61105,10854,GCF_000276665.1
+26,Chlorocebus_sabaeus,Green Monkey,Euarchonta,0.74811,90,28.81,90449,81825804,14,90449,7735,GCF_000409795.2
+27,Choloepus_hoffmanni,Hoffmann’s Two-toed Sloth,Xenarthra,0.82992,105,102,64490,,,64490,13390,GCA_000164785.2
+28,Colobus_angolensis,Angola Colobus,Euarchonta,0.75069,90,28.81,38363,7840981,117,38363,19355,GCF_000951035.1
+29,Condylura_cristata,Star-nosed Mole,Laurasiatheria,0.83908,96,94,46163,55520359,13,46163,10590,GCF_000260355.1
+30,Cricetulus_griseus,Chinese Hamster,Glires,0.38743,33,89,97133,62039716,12,97133,6664,GCA_900186095.1
+31,Dasypus_novemcinctus,Nine-banded Armadillo,Xenarthra,0.79174,105,102,26277,,,26277,37255,GCF_000208655.1
+32,Delphinapterus_leucas,Beluga,Laurasiatheria,0.78445,96,94,159142,19885328,33,159142,4468,GCF_002288925.1
+33,Desmodus_rotundus,Common Vampire Bat,Laurasiatheria,0.75373,96,94,80250,26869735,26,80250,6951,GCA_002940915.2
+34,Dicerorhinus_sumatrensis,Sumatran Rhinoceros,Laurasiatheria,0.69082,96,94,89455,614498,1268,89455,8673,GCA_002844835.1
+35,Dipodomys_ordii,Ord’s Kangaroo Rat,Glires,0.54075,70,89,48087,11931245,56,48087,11373,GCF_000151885.1
+36,Echinops_telfairi,Lesser Hedgehog Tenrec,Afrotheria,0.937,105,102,20428,,,20428,35397,GCF_000313985.1
+37,Eidolon_helvum,African Straw-colored Fruit Bat,Laurasiatheria,0.72766,96,94,12668,27684,18954,12668,42661,GCA_000465285.1
+38,Elaphurus_davidianus,Père David's Deer,Laurasiatheria,0.77483,96,94,59950,2844142,252,59950,12424,GCA_002443075.1
+39,Elephantulus_edwardii,Cape Elephant Shrew,Afrotheria,0.81733,105,102,24219,,,24219,38558,GCF_000299155.1
+40,Ellobius_lutescens,Transcaucasian Mole Vole,Glires,0.40056,33,89,11648,242123,2674,11648,57720,GCA_001685075.1
+41,Ellobius_talpinus,Northern Mole Vole,Glires,0.40104,33,89,8259,15246,43139,8259,80379,GCA_001685095.1
+42,Enhydra_lutris,Sea Otter,Laurasiatheria,0.79785,96,94,244529,38751465,20,244529,2959,GCF_002288905.1
+43,Eptesicus_fuscus,Big Brown Bat,Laurasiatheria,0.74164,96,94,21392,13454942,39,21392,24180,GCF_000308155.1
+44,Equus_asinus,Ass,Laurasiatheria,0.7501,96,94,66737,3776412,186,66737,9906,GCF_001305755.1
+45,Equus_caballus,Horse,Laurasiatheria,0.74689,96,94,112381,46749900,19,112381,6246,GCF_000002305.2
+46,Equus_przewalskii,Przewalski's horse,Laurasiatheria,0.74763,96,94,57610,513800,1223,57610,10599,GCF_000696695.1
+47,Erinaceus_europaeus,West European Hedgehog,Laurasiatheria,0.84288,96,94,21359,3264618,249,21359,31120,GCF_000296755.1
+48,Eulemur_flavifrons,Blue-eyed Black Lemur,Euarchonta,0.81823,90,74.1,27331,413352,1495,27331,22560,GCA_001262665.1
+49,Felis_catus,Domestic Cat,Laurasiatheria,0.78342,96,94,45189,18072971,45,45189,16252,GCF_000181335.2
+50,Fukomys_damarensis,Damaraland mole-rat,Glires,0.79319,73,89,44830,5314287,127,44830,15189,GCF_000743615.1
+51,Giraffa_tippelskirchi,Giraffe,Laurasiatheria,0.79348,96,94,47894,212164,3486,47894,15474,GCA_001651235.1
+52,Gorilla_gorilla,Western Gorilla,Euarchonta,0.73863,90,8.6,9406846,20634945,42,9406846,97,GCA_900006655.3
+53,Heterocephalus_glaber,Naked Mole-rat,Glires,0.77126,73,89,47778,20532749,42,47778,13150,GCF_000247695.1
+54,Hipposideros_armiger,Great Leaf-nosed Bat,Laurasiatheria,0.7468,96,94,39863,2328177,272,39863,13917,GCA_001890085.1
+55,Homo_sapiens,Human,Euarchonta,0.7356,90,0,56413054,67794873,16,56413054,19,GCA_000001405.27
+56,Ictidomys_tridecemlineatus,thirteen-lined ground squirrel,Glires,0.5528,71,89,44137,8192786,80,44137,14002,GCF_000236235.1
+57,Jaculus_jaculus,Lesser Egyptian Jerboa,Glires,0.60541,55,89,15675,22080993,36,15675,44340,GCF_000280705.1
+58,Leptonychotes_weddellii,Weddell Seal,Laurasiatheria,0.78742,96,94,23664,904031,921,23664,27102,GCF_000349705.1
+59,Lipotes_vexillifer,Baiji,Laurasiatheria,0.78718,96,94,31902,2419148,299,31902,22718,GCF_000442215.1
+60,Loxodonta_africana,African Bush Elephant,Afrotheria,0.7725,105,102,69023,,,69023,13607,GCF_000001905.1
+61,Lycaon_pictus,African wild dog,Laurasiatheria,0.77052,96,94,5555,63240551,15,5555,113651,GCA_001887905.1
+62,Macaca_fascicularis,Crab-eating Macaque,Euarchonta,0.75555,90,28.81,86040,88649475,14,86040,9296,GCF_000364345.1
+63,Macaca_mulatta,Rhesus Monkey,Euarchonta,0.75624,90,28.81,107156,4193270,202,107156,8042,GCF_000772875.2
+64,Macaca_nemestrina,Southern Pig-tailed Macaque,Euarchonta,0.74426,90,28.81,106897,15219753,62,106897,7388,GCF_000956065.1
+65,Mandrillus_leucophaeus,Drill,Euarchonta,0.74672,90,28.81,31346,3186748,285,31346,23470,GCF_000951045.1
+66,Manis_javanica,Sunda Pangolin,Laurasiatheria,0.70255,96,94,38922,204728,3399,38922,16964,GCF_001685135.1
+67,Manis_pentadactyla,Chinese Pangolin,Laurasiatheria,0.70431,96,94,28718,117920,5268,28718,19546,GCA_000738955.1
+68,Marmota_marmota,Alpine Marmot,Glires,0.56997,71,89,66492,31340621,25,66492,10673,GCF_001458135.1
+69,Mesocricetus_auratus,Golden Hamster,Glires,0.425,33,89,22511,12753307,57,22511,25785,GCF_000349665.1
+70,Microcebus_murinus,Gray Mouse Lemur,Euarchonta,0.83035,90,74.1,210702,108171978,10,210702,2987,GCA_000165445.3
+71,Microtus_ochrogaster,Prairie Vole,Glires,0.39099,33,89,21250,17270019,42,21250,29205,GCF_000317375.1
+72,Miniopterus_natalensis,Natal Long-fingered Bat,Laurasiatheria,0.79215,96,94,29777,4315193,118,29777,17067,GCF_001595765.1
+73,Neomonachus_schauinslandi,Hawaiian Monk Seal,Laurasiatheria,0.76937,96,94,112698,29518589,27,112698,6246,GCA_002201575.1
+74,Mus_caroli,Ryukyu Mouse,Glires,0.02735,7.04,89,30917,122627250,9,30916,21593,GCA_900094665.2
+75,Mus_musculus,House Mouse,Glires,0,0,89,32273079,54517951,17,32813180,25,GCF_000001635.26
+76,Mus_pahari,Shrew Mouse,Glires,0.04479,8.3,89,29465,111406228,9,29465,22851,GCA_900095145.2
+77,Mus_spretus,Western Wild Mouse,Glires,0.0119,3.07,89,17887,131945496,9,17887,37990,GCA_001624865.1
+78,Mustela_putorius,European Polecat,Laurasiatheria,0.79962,96,94,66755,9567452,72,66755,9959,GCF_000239315.1
+79,Myotis_brandtii,Brandt's Myotis,Laurasiatheria,0.80793,96,94,23289,3225832,181,23289,24039,GCF_000412655.1
+80,Myotis_davidii,David’s Myotis,Laurasiatheria,0.77519,96,94,15182,3454484,163,15182,36107,GCF_000327345.1
+81,Myotis_lucifugus,Little Brown Myotis,Laurasiatheria,0.80075,96,94,64330,4293315,106,64330,8574,GCF_000147115.1
+82,Nannospalax_galili,Upper Galilee Mountains Blind Mole Rat,Glires,0.45563,45,89,30353,3618479,238,30353,28338,GCF_000622305.1
+83,Neophocaena_asiaeorientalis,Narrow-ridged Finless Porpoise,Laurasiatheria,0.78481,96,94,86003,6341296,103,86003,7730,GCA_003031525.1
+84,Nomascus_leucogenys,Northern White-cheeked Gibbon,Euarchonta,0.73678,90,19.8,35148,52956880,21,35148,21558,GCF_000146795.2
+85,Ochotona_princeps,American Pika,Glires,0.72251,82,89,42347,26863993,26,42347,12477,GCF_000292845.1
+86,Octodon_degus,Degu,Glires,0.82062,73,89,19847,12091372,77,19847,36018,GCF_000260255.1
+87,Odobenus_rosmarus,Walrus,Laurasiatheria,0.77041,96,94,89951,2616778,269,89951,7314,GCF_000321225.1
+88,Odocoileus_virginianus,White-tailed Deer,Laurasiatheria,0.77546,96,94,122019,850721,758,122019,5324,GCA_002102435.1
+89,Okapia_johnstoni,Okapi,Laurasiatheria,0.81072,96,94,39571,111538,6512,39571,18817,GCA_001660835.1
+90,Orcinus_orca,Killer Whale,Laurasiatheria,0.78279,96,94,70300,12735091,60,70300,9480,GCF_000331955.2
+91,Oryctolagus_cuniculus,European Rabbit,Glires,0.68278,82,89,64648,35972871,22,64648,12076,GCF_000003625.3
+92,Otolemur_garnettii,Northern Greater Galago,Euarchonta,0.76434,90,74.1,27100,13852661,47,27100,21634,GCF_000181295.1
+93,Ovis_aries,Red Sheep,Laurasiatheria,0.81261,96,94,150472,100009711,8,150472,5008,GCF_000298735.2
+94,Pan_paniscus,Bonobo,Euarchonta,0.736,90,6.4,66676,8197324,94,66676,11048,GCF_000258655.2
+95,Pan_troglodytes,Common Chimpanzee,Euarchonta,0.73603,90,6.4,12421315,53103722,19,12268567,67,GCA_002880755.3
+96,Panthera_pardus,Leopard,Laurasiatheria,0.77307,96,94,20993,21701857,39,20993,34315,GCA_001857705.1
+97,Panthera_tigris,Tiger,Laurasiatheria,0.77225,96,94,30032,8860407,87,30032,22834,GCF_000464555.1
+98,Pantholops_hodgsonii,Chiru,Laurasiatheria,0.8095,96,94,18674,2772860,295,18674,39425,GCF_000400835.1
+99,Papio_anubis,Olive Baboon,Euarchonta,0.7477,90,28.81,149817,585721,1481,149817,5418,GCA_000264685.2
+100,Peromyscus_maniculatus,North American Deer Mouse,Glires,0.3859,33,89,9502,3760915,193,36367,18341,GCF_000500345.1
+101,Piliocolobus_tephrosceles,Ugandan Red Colobus,Euarchonta,0.75168,90,28.81,70213,10172280,82,70213,11545,GCA_002776525.1
+102,Pongo_abelii,Sumatran Orangutan,Euarchonta,0.74225,90,15.2,11074009,98475126,13,11074009,83,GCA_002880775.3
+103,Propithecus_coquereli,Coquerel’s Sifaka,Euarchonta,0.82002,90,74.1,28129,5604909,149,28129,18523,GCF_000956105.1
+104,Psammomys_obesus,Fat Sand Rat,Glires,0.08785,28.6,89,76398,,,76398,8752,GCA_002215935.1
+105,Pteronotus_parnellii,Common Mustached Bat,Laurasiatheria,0.79168,96,94,9502,22675,24037,9502,58483,GCA_000465405.1
+106,Pteropus_alecto,Black Flying Fox,Laurasiatheria,0.73264,96,94,31841,15954802,36,31841,18318,GCF_000325575.1
+107,Pteropus_vampyrus,Large Flying Fox,Laurasiatheria,0.75635,96,94,21866,5954017,102,21866,22949,GCF_000151845.1
+108,Puma_concolor,Cougar,Laurasiatheria,0.78243,96,94,15667,100532876,8,27187,24311,GCF_003327715.1
+109,Rattus_norvegicus,Norway Rat,Glires,0.06579,20.9,89,100461,14986627,65,100461,7356,GCF_000001895.5
+110,Rhinolophus_sinicus,Chinese Rufous Horseshoe Bat,Laurasiatheria,0.77336,96,94,37803,3754400,161,37803,15841,GCA_001888835.1
+111,Rhinopithecus_bieti,Black Snub-nosed Monkey,Euarchonta,0.7606,90,28.81,36417,2225337,380,36417,21993,GCF_001698545.1
+112,Rhinopithecus_roxellana,Golden Snub-nosed Monkey,Euarchonta,0.76037,90,28.81,77151,1549224,533,77151,10825,GCF_000769185.1
+113,Saimiri_boliviensis,Black-capped Squirrel Monkey,Euarchonta,0.7778,90,42.9,38823,18744880,39,38823,17664,GCF_000235385.1
+114,Sorex_araneus,Common Shrew,Laurasiatheria,0.89599,96,94,22623,22794405,36,22623,27146,GCF_000181275.1
+115,Spermophilus_dauricus,Daurian Ground Squirrel,Glires,0.70141,71,89,34849,1761345,493,34849,24749,GCA_002406435.1
+116,Sus_scrofa,Wild Boar,Laurasiatheria,0.85366,96,94,69474,576008,1303,69503,8632,GCF_000003025.5
+117,Trichechus_manatus,West Indian Manatee,Afrotheria,0.78769,105,102,37750,,,37750,21973,GCF_000243295.1
+118,Tupaia_chinensis,Chinese Tree Shrew,Euarchonta,0.7031,90,85,25938,3670124,232,25938,30450,GCF_000334495.1
+119,Tursiops_truncatus,Bottlenose Dolphin,Laurasiatheria,0.82388,96,94,44302,26555543,21,44299,13812,GCA_001922835.1
+120,Ursus_maritimus,Polar Bear,Laurasiatheria,0.82468,96,94,46506,15940661,46,46506,14124,GCF_000687225.1
+121,Vicugna_pacos,Alpaca,Laurasiatheria,0.84374,96,94,213649,5303709,107,213649,2602,GCA_000767525.1
+122,Acomys_cahirinus,Cairo Spiny Mouse,Glires,0.12066,28.6,89,44337,65411,10134,42476,15859,DISCOVAR (GCA_004027535.1)
+123,Allactaga_bullata,Gobi Jerboa,Glires,0.62434,55,89,37276,36308,21056,30651,25318,DISCOVAR (GCA_004027895.1)
+124,Alouatta_palliata,Mexican Howler Monkey,Euarchonta,0.77988,90,42.9,59476,72427,11068,51304,15704,DISCOVAR (GCA_004027835.1)
+125,Anoura_caudifer,Tailed tailless bat,Laurasiatheria,0.71029,96,94,150858,185021,3282,143417,4323,DISCOVAR (GCA_004027475.1)
+126,Antilocapra_americana,Pronghorn,Laurasiatheria,0.7788,96,94,75180,70316,10303,59271,12477,DISCOVAR (GCA_004027515.1)
+127,Aplodontia_rufa,Mountain Beaver,Glires,0.63695,71,89,40591,37811,19816,33245,22825,DISCOVAR (GCA_004027875.1)
+128,Artibeus_jamaicensis,Jamacian Fruit-eating Bat,Laurasiatheria,0.77636,96,94,37407,35347,16717,32365,18729,DISCOVAR (GCA_004027435.1)
+129,Ateles_geoffroyi,Geoffroy's Spider Monkey,Euarchonta,0.77689,90,42.9,66331,73111,10626,59033,13280,DISCOVAR (GCA_004024785.1)
+130,Beatragus_hunteri,Hunter's Hartebeest,Laurasiatheria,0.81646,96,94,60436,69303,11525,57444,13952,DISCOVAR (GCA_004027495.1)
+131,Canis_lupus,Village dog,Laurasiatheria,0.76797,96,94,267478,157754,4443,100144,7214,DISCOVAR (GCA_004027395.1)
+132,Capromys_pilorides,Desmarest's Hutia,Glires,0.84282,73,89,6891,4081,146424,4080,149962,DISCOVAR (GCA_004027915.1)
+133,Carlito_syrichta,Philippine Tarsier,Euarchonta,0.71741,90,,38472,-,-,-,-,DISCOVAR
+134,Carollia_perspicillata,Seba's short-tailed bat,Laurasiatheria,0.71643,96,94,17377,10739,50319,10341,53523,DISCOVAR (GCA_004027735.1)
+135,Castor_canadensis,North American Beaver,Glires,0.52714,70,89,55022,55723,13511,49369,15313,DISCOVAR (GCA_004027675.1)
+136,Catagonus_wagneri,Chacoan peccary,Laurasiatheria,0.86875,96,94,77783,91723,7860,66027,10962,DISCOVAR (GCA_004024745.1)
+137,Cavia_tschudii,Montane guinea pig,Glires,0.80563,73,89,79889,91436,8528,64807,12214,DISCOVAR (GCA_004027695.1)
+138,Cebus_albifrons,White-fronted Capuchin,Euarchonta,0.78788,90,42.9,31522,31156,24368,25652,30237,DISCOVAR (GCA_004027755.1)
+139,Ceratotherium_simum_cottoni,Northern White Rhino,Laurasiatheria,0.69884,96,94,23748,23005,32996,21199,35976,DISCOVAR (GCA_004027795.1)
+140,Cercopithecus_neglectus,De Brazza's Monkey,Euarchonta,0.74952,90,28.81,13610,10270,72117,9789,78265,DISCOVAR (GCA_004027615.1)
+141,Chaetophractus_vellerosus,Screaming Hairy Armadillo,Xenarthra,0.81074,105,102,5322,,,1606,575354,DISCOVAR (GCA_004027955.1)
+142,Cheirogaleus_medius,Fat-tailed Dwarf Lemur,Euarchonta,0.79073,90,74.1,98513,118572,5555,90923,7228,DISCOVAR (GCA_004024725.1)
+143,Choloepus_didactylus,Linnaeus's Two Toed Sloth,Xenarthra,0.82779,105,102,10107,,,7167,117573,DISCOVAR (GCA_004027855.1)
+144,Chrysochloris_asiatica,Cape Golden Mole,Afrotheria,0.72593,105,102,9805,,,6444,170978,DISCOVAR (GCA_004027935.1)
+145,Craseonycteris_thonglongyai,Bumblebee Bat,Laurasiatheria,0.76061,96,94,28297,25762,22223,23218,25352,DISCOVAR (GCA_004027555.1)
+146,Cricetomys_gambianus,Gambian pouched rat,Glires,0.39708,33,89,100332,110049,5340,80761,7273,DISCOVAR (GCA_004027575.1)
+147,Crocidura_indochinensis,Indochinese shrew,Laurasiatheria,0.77157,96,94,8485,4929,122084,4927,127396,DISCOVAR (GCA_004027635.1)
+148,Cryptoprocta_ferox,Fossa,Laurasiatheria,0.81601,96,94,137953,173473,3830,128639,5252,DISCOVAR (GCA_004023885.1)
+149,Ctenodactylus_gundi,Common gundi,Glires,0.5582,73,89,246904,354548,1820,218543,3042,DISCOVAR (GCA_004027205.1)
+150,Ctenomys_sociabilis,Social Tuco-tuco,Glires,0.84278,73,89,41379,49073,15899,37562,20986,DISCOVAR (GCA_004027165.1)
+151,Cuniculus_paca,Lowland Paca,Glires,0.79621,73,89,9059,3892,159405,3890,162528,DISCOVAR (GCA_004365215.1)
+152,Dasyprocta_punctata,Central American Agouti,Glires,0.815,73,89,44076,43703,17174,38650,19800,DISCOVAR (GCA_004363535.1)
+153,Daubentonia_madagascariensis,Aye-aye,Euarchonta,0.79934,90,74.1,311553,379919,1894,298834,2426,DISCOVAR (GCA_004027145.1)
+154,Diceros_bicornis,Black Rhinocerous,Laurasiatheria,0.69365,96,94,114126,115504,6876,87375,9164,DISCOVAR (GCA_004027315.1)
+155,Dinomys_branickii,Pacarana,Glires,0.81703,73,89,75870,77918,9284,64805,11195,DISCOVAR (GCA_004027595.1)
+156,Dipodomys_stephensi,Stephen's Kangaroo Rat,Glires,0.5419,70,89,0,36811,16981,30710,20403,DISCOVAR (GCA_004024685.1)
+157,Dolichotis_patagonum,Patagonian Mara,Glires,0.81955,73,89,40160,31026,22098,27983,25338,DISCOVAR (GCA_004027295.1)
+158,Erythrocebus_patas,Patas Monkey,Euarchonta,0.74793,90,28.81,39816,34535,24603,28523,30270,DISCOVAR (GCA_004027335.1)
+159,Eschrichtius_robustus,Grey Whale,Laurasiatheria,0.75924,96,94,78871,94414,7799,68559,10748,DISCOVAR (GCA_004363415.1)
+160,Eubalaena_japonica,North Pacific Right Whale,Laurasiatheria,0.75797,96,94,41990,39813,18050,34866,20862,DISCOVAR (GCA_004363455.1)
+161,Eulemur_fulvus,Common Brown Lemur,Euarchonta,0.81894,90,74.1,28544,22561,29530,21310,31523,DISCOVAR (GCA_004027275.1)
+162,Felis_nigripes,Black-footed Cat,Laurasiatheria,0.78313,96,94,16930,18631,35822,16007,42636,DISCOVAR (GCA_004023925.1)
+163,Galeopterus_variegatus,Sunda Flying Lemur,Euarchonta,0.66983,90,83,44327,7885395,91,34666,22045,DISCOVAR (GCA_004027255.2)
+164,Glis_glis,Edible Dormouse,Glires,0.5204,71,89,27095,30338,22646,26062,26481,DISCOVAR (GCA_004027185.1)
+165,Graphiurus_murinus,Woodland Doormouse,Glires,0.55397,71,89,27731,28463,21033,22138,29676,DISCOVAR (GCA_004027655.1)
+166,Helogale_parvula,Dwarf Mongoose,Laurasiatheria,0.81658,96,94,116675,179119,3602,113567,5829,DISCOVAR (GCA_004023845.1)
+167,Hemitragus_hylocrius,Nilgiri Tahr,Laurasiatheria,0.8202,96,94,69919,85340,9258,66552,11862,DISCOVAR (GCA_004026825.1)
+168,Heterohyrax_brucei,African Yellow-spotted Rock Hyrax,Afrotheria,0.79736,105,102,70066,,,62841,15385,DISCOVAR (GCA_004026845.1)
+169,Hippopotamus_amphibius,Hippopotamus,Laurasiatheria,0.7576,96,94,84845,4444377,171,76609,9640,DISCOVAR (GCA_004027065.2)
+170,Hipposideros_galeritus,Cantor's Leaf-nosed Bat,Laurasiatheria,0.77686,96,94,38797,37985,17179,33704,19815,DISCOVAR (GCA_004027415.1)
+171,Hyaena_hyaena,Striped Hyena,Laurasiatheria,0.78795,96,94,53836,66490,10587,51677,13695,DISCOVAR (GCA_004023945.1)
+172,Hydrochoerus_hydrochaeris,Capybara,Glires,0.8192,73,89,162656,202224,3717,148451,5131,DISCOVAR (GCA_004027455.1)
+173,Hystrix_cristata,Northern Crested Porcupine,Glires,0.74431,73,89,68186,64768,10348,57102,11814,DISCOVAR (GCA_004026905.1)
+174,Indri_indri,Indri,Euarchonta,0.82082,90,74.1,33103,28620,20823,26447,23601,DISCOVAR (GCA_004363605.1)
+175,Inia_geoffrensis,Amazon River Dolphin,Laurasiatheria,0.78655,96,94,30246,26707,21180,24570,23854,DISCOVAR (GCA_004363515.1)
+176,Kogia_breviceps,Pygmy Sperm Whale,Laurasiatheria,0.77121,96,94,31609,28812,25050,26201,27952,DISCOVAR (GCA_004363705.1)
+177,Lasiurus_borealis,Eastern Red Bat,Laurasiatheria,0.74295,96,94,35447,38543,18686,35165,20682,DISCOVAR (GCA_004026805.1)
+178,Lemur_catta,Ring Tailed Lemur,Euarchonta,0.78073,90,74.1,173559,215715,2945,158439,4091,DISCOVAR (GCA_004024665.1)
+179,Lepus_americanus,Snowshoe Hare,Glires,0.69713,82,89,19314,16725,45193,15057,51727,DISCOVAR (GCA_004026855.1)
+180,Macroglossus_sobrinus,Long-tongued fruit bat,Laurasiatheria,0.71903,96,94,351412,453401,1154,338389,1573,DISCOVAR (GCA_004027375.1)
+181,Manis_tricuspis,Tree Pangolin,Laurasiatheria,,96,94,33856,25241,28318,23755,30306,DISCOVAR (GCA_004765945.1)
+182,Megaderma_lyra,Greater False Vampire Bat,Laurasiatheria,0.86653,96,,108673,96489,6165,71674,8413,DISCOVAR (GCA_004026885.1)
+183,Mellivora_capensis,Honey Badger,Laurasiatheria,0.79838,96,94,69362,59143,12829,50213,15366,DISCOVAR (GCA_004024625.1)
+184,Meriones_unguiculatus,Mongolian Jird,Glires,0.12807,28.6,89,81734,100883,5504,69839,8477,DISCOVAR (GCA_004026785.1)
+185,Mesoplodon_bidens,Sowerby’s beaked whale,Laurasiatheria,0.78789,96,94,37451,33532,21694,28959,25790,DISCOVAR (GCA_004027085.1)
+186,Microgale_talazaci,Talazac's Shrew Tenrec,Afrotheria,0.95799,105,102,64077,,,56946,14134,DISCOVAR (GCA_004026705.1)
+187,Micronycteris_hirsuta,Hairy Big-eared Bat,Laurasiatheria,0.70196,96,94,68746,68868,8795,62961,9798,DISCOVAR (GCA_004026765.1)
+188,Miniopterus_schreibersii,Common Bent-wing Bat,Laurasiatheria,0.79175,96,94,85056,108707,4781,82539,6368,DISCOVAR (GCA_004026525.1)
+189,Mirounga_angustirostris,Northern Elephant Seal,Laurasiatheria,0.7796,96,94,54778,64640,10757,52833,13291,DISCOVAR (GCA_004023865.1)
+190,Mirza_coquereli,Coquerel's Giant Mouse Lemur,Euarchonta,0.82954,90,74.1,64864,79947,7587,60596,10147,DISCOVAR (GCA_004024645.1)
+191,Monodon_monoceros,Narwhal,Laurasiatheria,0.78442,96,94,78802,86766,8168,67024,10490,DISCOVAR (GCA_004026685.1)
+192,Mormoops_blainvillei,Antillean Ghost-faced Bat,Laurasiatheria,0.80269,96,94,147599,156292,3693,142682,4104,DISCOVAR (GCA_004026545.1)
+193,Moschus_moschiferus,Siberian Musk Deer,Laurasiatheria,0.80063,96,94,39944,47482,16940,34798,23547,DISCOVAR (GCA_004024705.1)
+194,Mungos_mungo,South African Banded Mongoose,Laurasiatheria,0.80927,96,94,189084,236501,2886,180702,3832,DISCOVAR (GCA_004023785.1)
+195,Murina_feae,Ashy-gray tube-nosed bat,Laurasiatheria,0.80118,96,94,26934,26051,23840,23400,26925,DISCOVAR (GCA_004026665.1)
+196,Muscardinus_avellanarius,Hazel dormouse,Glires,0.54026,71,89,46810,59013,12037,44294,16126,DISCOVAR (GCA_004027005.1)
+197,Myocastor_coypus,Coypu,Glires,0.83991,73,89,35222,35982,21157,28446,27184,DISCOVAR (GCA_004027025.1)
+198,Myotis_myotis,Greater mouse-eared Bat,Laurasiatheria,0.79709,96,94,23271,21824,27249,19322,31447,DISCOVAR (GCA_004026985.1)
+199,Myrmecophaga_tridactyla,Giant Anteater,Xenarthra,0.87968,105,102,44845,,,36434,25228,DISCOVAR (GCA_004026745.1)
+200,Nasalis_larvatus,Proboscis Monkey,Euarchonta,0.75144,90,28.81,38381,44943,18488,34532,24397,DISCOVAR (GCA_004027105.1)
+201,Noctilio_leporinus,Greater Bulldog Bat,Laurasiatheria,0.69088,96,94,143138,191494,2920,135651,4194,DISCOVAR (GCA_004026585.1)
+202,Nycticebus_coucang,Sunda Slow Loris,Euarchonta,0.77715,90,74.1,23653,19724,40008,17693,45566,DISCOVAR (GCA_004027815.1)
+203,Ondatra_zibethicus,Muskrat,Glires,0.40214,33,89,79948,89093,7754,73746,9587,DISCOVAR (GCA_004026605.1)
+204,Onychomys_torridus,Scorpion Mouse,Glires,0.38625,33,89,26822,20878,35645,18287,41931,DISCOVAR (GCA_004026725.1)
+205,Orycteropus_afer,Aardvark,Afrotheria,0.6654,105,102,25531,,,-,-,DISCOVAR (GCA_004365145.1)
+206,Ovis_canadensis,Penninsular Bighorn Sheep,Laurasiatheria,0.80894,96,94,62884,69397,11415,55973,14306,DISCOVAR (GCA_004026945.1)
+207,Panthera_onca,Jaguar,Laurasiatheria,0.77193,96,94,66276,116574,6057,62836,11626,DISCOVAR (GCA_004023805.1)
+208,Paradoxurus_hermaphroditus,Asian Palm Civet,Laurasiatheria,0.77834,96,94,67775,71823,8704,62870,10106,DISCOVAR (GCA_004024585.1)
+209,Perognathus_longimembris,Pacific Pocket Mouse,Glires,0.55026,70,89,27791,24714,23202,17686,34665,DISCOVAR (GCA_004363475.1)
+210,Petromus_typicus,Dassie rat,Glires,0.79729,73,89,34472,35766,16938,29916,20963,DISCOVAR (GCA_004026965.1)
+211,Phocoena_phocoena,Harbor Porpoise,Laurasiatheria,0.78538,96,94,105655,115969,6441,89111,8515,DISCOVAR (GCA_004363495.1)
+212,Pipistrellus_pipistrellus,Common Pipistrelle,Laurasiatheria,0.75058,96,94,30524,33992,15278,26707,20199,DISCOVAR (GCA_004026625.1)
+213,Pithecia_pithecia,White-faced Saki,Euarchonta,0.76829,90,42.9,70458,83104,9847,63292,13054,DISCOVAR (GCA_004026645.1)
+214,Platanista_gangetica,Indus River Dolphin,Laurasiatheria,0.78982,96,94,23592,23933,31967,20879,37105,DISCOVAR (GCA_004363435.1)
+215,Callicebus_donacophilus,White-eared Titi (new scientific name: Plecturocebus donacophilus),Euarchonta,0.76926,90,42.9,46836,46445,17301,41149,19599,DISCOVAR (GCA_004027715.1)
+216,Procavia_capensis,South African Rock Hyrax,Afrotheria,0.79617,105,102,41902,,,-,-,DISCOVAR (GCA_004026925.2)
+217,Pteronura_brasiliensis,Giant Otter,Laurasiatheria,0.80019,96,94,99882,119023,5906,90879,7780,DISCOVAR (GCA_004024605.1)
+218,Pygathrix_nemaeus,Red-shanked Douc,Euarchonta,0.76067,90,28.81,60832,68569,12661,51434,17062,DISCOVAR (GCA_004024825.1)
+219,Rangifer_tarandus,Siberian Reindeer,Laurasiatheria,0.77891,96,94,91907,89062,8918,77671,10302,DISCOVAR (GCA_004026565.1)
+220,Rousettus_aegyptiacus,Egyptian Fruit Bat,Laurasiatheria,0.73893,96,94,104971,125332,4059,100260,5215,DISCOVAR (GCA_004024865.1)
+221,Saguinus_imperator,Emperor Tamarin,Euarchonta,0.78362,90,42.9,68605,65636,12800,53787,15912,DISCOVAR (GCA_004024885.1)
+222,Saiga_tatarica,Russian Saiga,Laurasiatheria,0.83378,96,94,7893,6453,119405,6406,122170,DISCOVAR (GCA_004024985.1)
+223,Scalopus_aquaticus,Eastern Mole,Laurasiatheria,0.86178,96,94,80361,94879,6185,72421,8139,DISCOVAR (GCA_004024925.1)
+224,Semnopithecus_entellus,Northern Plains Gray Langur,Euarchonta,0.75067,90,28.81,28655,29955,26554,25064,32346,DISCOVAR (GCA_004025065.1)
+225,Sigmodon_hispidus,Hispid Cotton Rat,Glires,0.40582,33,89,76554,101373,7354,67983,11141,DISCOVAR (GCA_004025045.1)
+226,Solenodon_paradoxus,Hispaniolan Solenodon,Laurasiatheria,0.65884,96,94,244273,407682,1301,236847,2341,DISCOVAR (GCA_004363575.1)
+227,Spilogale_gracilis,Western Spotted Skunk,Laurasiatheria,0.78153,96,94,66417,85970,8237,63054,11351,DISCOVAR (GCA_004023965.1)
+228,Suricata_suricatta,Meerkat,Laurasiatheria,0.82844,96,94,156832,186735,3579,148487,4579,DISCOVAR (GCA_004023905.1)
+229,Tadarida_brasiliensis,Mexican Free-tailed Bat,Laurasiatheria,0.78048,96,94,27768,24311,25996,22617,28355,DISCOVAR (GCA_004025005.1)
+230,Tamandua_tetradactyla,Southern Tamandua,Xenarthra,0.83896,105,102,25261,,,18654,49529,DISCOVAR (GCA_004025105.1)
+231,Tapirus_indicus,Malayan Tapir,Laurasiatheria,0.6997,96,94,234383,308930,2188,225792,3061,DISCOVAR (GCA_004024905.1)
+232,Tapirus_terrestris,South American Tapir,Laurasiatheria,0.70098,96,94,184442,186384,3791,164193,4276,DISCOVAR (GCA_004025025.1)
+233,Thryonomys_swinderianus,Greater Cane Rat,Glires,0.79533,73,89,25752,21523,31098,18955,35727,DISCOVAR (GCA_004025085.1)
+234,Tolypeutes_matacus,Southern Three-Banded Armadillo,Xenarthra,0.80862,105,102,13475,,,9441,105496,DISCOVAR (GCA_004025125.1)
+235,Tonatia_saurophila,Stripe-headed Round-eared Bat,Laurasiatheria,0.76162,96,94,148656,165561,3525,141649,4127,DISCOVAR (GCA_004024845.1)
+236,Tragulus_javanicus,Java Lesser Chevrotain,Laurasiatheria,0.77939,96,94,92271,86670,7807,78495,8783,DISCOVAR (GCA_004024965.1)
+237,Tupaia_tana,Large treeshrew,Euarchonta,0.7142,90,85,7236,2973,217221,2971,223828,DISCOVAR (GCA_004365275.1)
+238,Uropsilus_gracilis,Gracile Shrew-like Mole,Laurasiatheria,0.67988,96,94,50461,55035,9718,43618,12579,DISCOVAR (GCA_004024945.1)
+239,Vulpes_lagopus,Arctic Fox,Laurasiatheria,0.77688,96,94,88551,102053,6892,73976,9828,DISCOVAR (GCA_004023825.1)
+240,Xerus_inauris,Cape Ground Squirrel,Glires,0.5204,71,89,70055,83865,8399,64054,10993,DISCOVAR (GCA_004024805.1)
+241,Zalophus_californianus,California Sea Lion,Laurasiatheria,0.77006,96,94,97878,132377,5281,90567,7984,DISCOVAR (GCA_004024565.1)
+242,Zapus_hudsonius,Meadow Jumping Mouse,Glires,0.61881,55,89,28664,26350,24542,23350,28152,DISCOVAR (GCA_004024765.1)
+243,Ziphius_cavirostris,Cuvier's Beaked Whale,Laurasiatheria,0.78771,96,94,8393,3608,165386,3606,168697,DISCOVAR (GCA_004364475.1)
