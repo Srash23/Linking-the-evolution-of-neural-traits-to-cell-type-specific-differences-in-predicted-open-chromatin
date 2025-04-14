@@ -6,8 +6,6 @@ Circadian rhythms are intrinsic time-keeping mechanisms in organisms, regulating
 
 This project investigates the evolutionary divergence and convergent evolution of circadian regulation in mammals by analyzing open chromatin regions in astrocytes and microglia, key glial cell types involved in circadian functions.
 
-![1  Biological Clock Overview (General Concept) - visual selection](https://github.com/user-attachments/assets/54c4665a-ac86-4540-85e4-a23d429ac1c2)
-
 ## Key Objectives
 
 1. Identify evolutionary conserved and divergent chromatin accessibility regions regulating circadian genes.
