@@ -74,16 +74,6 @@ ii. ESYT1 – Membrane tethering protein with potential circadian regulation.
 
 3. Microglia show potential secondary roles, possibly in neuroinflammatory responses affecting circadian mechanisms.
 
-## Visualization & Interpretation
-
-1. Histograms of p-values and correlation estimates for astrocytes and microglia.
-
-2. Bar plots comparing chromatin accessibility across species.
-
-3. UMAP projections visualizing open chromatin landscapes for key circadian genes.
-
-4. IGV plots depicting chromatin accessibility at circadian-related peaks.
-
 ## Conclusion
 
 1. Astrocytes play a significant role in circadian regulation, with conserved open chromatin regions across species.
